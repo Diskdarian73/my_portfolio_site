@@ -1,7 +1,7 @@
 # 🎨 Disk' Darian – Generative Patterns  
 ## AI Prompt Engineering for Afro-Futurist & Cultural Design  
 
-![Disk' Darian Logo](https://res.cloudinary.com/ddpfw2na3/image/upload/t_NOBG/v1747235794/Image_135_e3nkue.png) <!-- Replace with actual logo path if hosted -->
+https://res-console.cloudinary.com/ddpfw2na3/thumbnails/v1/image/upload/v1747235794/SW1hZ2VfMTM1X2Uzbmt1ZQ==/template_primary/dF9OTyBCRw==<!-- Replace with actual logo path if hosted -->
 
 ---
 
